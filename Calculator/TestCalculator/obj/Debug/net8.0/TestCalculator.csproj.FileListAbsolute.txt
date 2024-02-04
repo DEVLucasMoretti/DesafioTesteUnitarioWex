@@ -1,0 +1,8 @@
+C:\DIOCalculator\Calculator\TestCalculator\bin\Debug\net8.0\CoverletSourceRootsMapping_TestCalculator
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\TestCalculator.csproj.AssemblyReference.cache
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\Interop.Accessibility.dll
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\TestCalculator.csproj.ResolveComReference.cache
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\TestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\TestCalculator.AssemblyInfoInputs.cache
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\TestCalculator.AssemblyInfo.cs
+C:\DIOCalculator\Calculator\TestCalculator\obj\Debug\net8.0\TestCalculator.csproj.CoreCompileInputs.cache
